@@ -26,6 +26,7 @@ Regularly take courses to improve my skills and self-development
 - Microsoft SQL Server
 
 ## Code Example
+
 ```
 function res(){
   document.getElementById("result").innerHTML ='';
@@ -41,6 +42,11 @@ function find(){
   else{}
 }
 ```
+
+## Experience
+
+Teamwork on a small project with xNet lib on C#
+
 ## Languages
 
 - Ukrainian - native
